@@ -1817,7 +1817,6 @@ pre .javascript .function {
     display: none !important;
   }
 }
-<iframe frameborder="no"border="0"marginwidth="0"marginheight="0"width=330 height=110 src="//music.163.com/outchain/player?type=0id=131368017auto=1height=90"></iframe>,
 .sidebar-inner {
   position: relative;
   padding: 20px 10px;
@@ -1874,9 +1873,9 @@ pre .javascript .function {
   height: auto;
   border: 1px solid #eee;
 /* 头像圆形 */
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
   box-shadow: inset 0 -1px 0 #333 sf;
 /* 设置循环动画 [animation: (play)动画名称 (2s)动画播放时长单位秒或微秒 (ase-out)动画播放的速度曲线为以低速结束 
     (1s)等待1秒然后开始动画 (1)动画播放次数(infinite为循环播放) ]*/
@@ -2058,7 +2057,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #48f;
+  background: #d4218f;
 }
 .links-of-blogroll {
   font-size: 13px;
