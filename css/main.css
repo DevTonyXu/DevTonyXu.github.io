@@ -2057,7 +2057,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #45ffd9;
+  background: #d2ff8a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3354,6 +3354,12 @@ img:hover {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background-image: url("/images/background.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 code {
   color: #ff7600;
