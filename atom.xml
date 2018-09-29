@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>徐庆的个人站</title>
+  <title>TonyXu的个人站</title>
   
   <subtitle>生活不简单，尽量简单过</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://www.devxu.cn/</id>
   
   <author>
-    <name>徐庆_TonyXu</name>
+    <name>TonyXu</name>
     
   </author>
   
