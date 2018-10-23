@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>TonyXu的个人站</title>
+  <title>TonyXu&#39;s Blog</title>
   
   <subtitle>生活不简单，尽量简单过</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.devxu.cn/"/>
+  <link href="www.devxu.cn/"/>
   <updated>2017-10-28T00:39:58.000Z</updated>
-  <id>http://www.devxu.cn/</id>
+  <id>www.devxu.cn/</id>
   
   <author>
     <name>TonyXu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.devxu.cn/2017/10/28/cjnk5d0me0000zzpcfoc2njku/"/>
-    <id>http://www.devxu.cn/2017/10/28/cjnk5d0me0000zzpcfoc2njku/</id>
+    <link href="www.devxu.cn/2017/10/28/hello-world/"/>
+    <id>www.devxu.cn/2017/10/28/hello-world/</id>
     <published>2017-10-28T00:39:58.000Z</published>
     <updated>2017-10-28T00:39:58.000Z</updated>
     
